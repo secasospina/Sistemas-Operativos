@@ -1,3 +1,5 @@
+#Integrantes: Sebastián Castaño Ospina - Luis Fernando Bastidas
+
 from queue import Queue         #importamos el modulo para poder trabajar con colas por la forma estructurada de ingresar los datos
 
 datos_entrada=input("Ingrese los numeros de entrada separados por una coma: ")
